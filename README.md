@@ -1,5 +1,7 @@
 # journal
 
+[![Rust](https://github.com/elamaranae/journal/actions/workflows/rust.yml/badge.svg)](https://github.com/elamaranae/journal/actions/workflows/rust.yml)
+
 A minimal, git-tracked personal journal CLI built in Rust.
 
 Entries live as a SQLite database inside any existing git repo — commit alongside your notes, dotfiles, or whatever you already version-control.
