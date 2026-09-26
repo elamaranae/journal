@@ -1,6 +1,6 @@
 # journal
 
-[![Rust](https://github.com/elamaranae/journal/actions/workflows/rust.yml/badge.svg)](https://github.com/elamaranae/journal/actions/workflows/rust.yml)
+[![Rust](https://github.com/elamaranae/journal/actions/workflows/rust.yml/badge.svg)](https://github.com/elamaranae/journal/actions/workflows/rust.yml) [![CodeQL](https://github.com/elamaranae/journal/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/elamaranae/journal/actions/workflows/github-code-scanning/codeql)
 
 A minimal, git-tracked personal journal CLI built in Rust.
 
